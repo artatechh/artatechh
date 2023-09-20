@@ -1,42 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Hi my welcome there. </title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
-        }
-
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-
-        h1 {
-            color: #333;
-        }
-
-        p {
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>welcome there 👋</h1>
-        <p> I'm happy to see you </p>
-    </div>
-</body>
-</html>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;My+name+is+Amirhossein;I'm+happy+to+see+you&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=blue&size=30">
+</h1>
 
 
 ## About Me
