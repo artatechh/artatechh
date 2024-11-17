@@ -15,7 +15,7 @@ As an ISTJ personality type, I am a committed, organized, and precise individual
 - Video Editor: Combining images and videos with special effects to craft compelling visual narratives.
 - Professional Painter: Transforming ideas and concepts into beautiful and engaging artworks.
 - Experience
-- With over 3 years of experience in graphic design and content creation, I have honed the ability to share stories and ideas through - - - - impactful visuals and videos.
+- With over 5 years of experience in graphic design and content creation, I have honed the ability to share stories and ideas through - - - - impactful visuals and videos.
 
 ## Interests
 When I'm not immersed in technical projects, I engage in activities such as:
